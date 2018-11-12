@@ -76,7 +76,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(0, 0, 51, 0.9);
+  background-color: rgba(0, 51, 0, 0.9);
   font-family: 'Raleway';
 }
 
@@ -203,7 +203,7 @@ p {
 }
 
 .list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(112, 112, 219, 0.5);
+  border-bottom: 1px solid rgba(0, 77, 26, 0.5);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
