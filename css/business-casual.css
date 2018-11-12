@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #7070db;
+  color: #003300;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #7070db;
+  color: #003300;
 }
 
 @media (min-width: 992px) {
@@ -101,7 +101,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #7070db;
+    color: #003300;
   }
 }
 
@@ -146,7 +146,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(26, 0, 51, 0.9);
+  background-color: rgba(51, 26, 0, 0.9);
 }
 
 .cta .cta-inner {
@@ -211,7 +211,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #7070db;
+  color: #008000;
 }
 
 @media (min-width: 992px) {
@@ -230,11 +230,11 @@ p {
 }
 
 .text-primary {
-  color: #001a00 !important;
+  color: #003300 !important;
 }
 
 .bg-primary {
-  background-color: #001a00 !important;
+  background-color: #003300 !important;
 }
 
 .btn {
@@ -243,13 +243,13 @@ p {
 }
 
 .btn-primary {
-  background-color: #7070db;
-  border-color: #7070db;
+  background-color: #006600;
+  border-color: #006600;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #00ccff;
-  border-color: #00ccff;
+  background-color: #008000;
+  border-color: #008000;
 }
 
 .font-weight-light {
