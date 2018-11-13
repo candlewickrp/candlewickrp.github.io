@@ -90,7 +90,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #003300;
+  color: #006600;
 }
 
 @media (min-width: 992px) {
@@ -101,7 +101,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #003300;
+    color: #006600;
   }
 }
 
